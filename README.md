@@ -1,5 +1,5 @@
-# COMS501-DVD--Rentals
-A web application to simulate a DVD rental shop's website, created for my second year web application development module at University.
+# DVDelivery Website
+A website for a fictional DVD rental shop, created for my second year web application development module at University.
 
 # Cloning Repo
 A `config.php` file must be created within the `includes` directory contianing the login credentials for the database. This can be done using the following code and entering the correct details into the blank quotations:
