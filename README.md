@@ -20,14 +20,17 @@ The database used is a modified version of the [Sakila](https://dev.mysql.com/do
   
 ## Homepage
   
-![image](https://github.com/benfinnett/DVDelivery/assets/125909754/19eb810a-e3b5-4211-93a3-b9c2f1b34174)
-![image](https://github.com/benfinnett/DVDelivery/assets/125909754/d86154ff-be03-405f-ae9e-04a224078b48)
+<img width="960" alt="image" src="https://github.com/benfinnett/DVDelivery/assets/125909754/4ed745e3-8cc2-485d-b46f-dbf89f70239c">
+<img width="960" alt="image" src="https://github.com/benfinnett/DVDelivery/assets/125909754/7a3d0fac-cab2-4480-84e9-a9a866da117b">
+
 ## Film Categories Page
 
-![image](https://github.com/benfinnett/DVDelivery/assets/125909754/35c80509-5e2e-4528-b665-47659c9b236c)
+<img width="960" alt="image" src="https://github.com/benfinnett/DVDelivery/assets/125909754/204d37d7-f071-45a4-abdc-dbe5075a17ef">
+
 ## Films List Page
 
-![image](https://github.com/benfinnett/DVDelivery/assets/125909754/f7ad1430-d052-4c84-9068-2a42c28772c2)
+<img width="960" alt="image" src="https://github.com/benfinnett/DVDelivery/assets/125909754/0205c1e9-636a-4b01-ad29-fc123be84184">
+
 ## Sign In Page
 
 ![image](https://github.com/benfinnett/DVDelivery/assets/125909754/d4fb54ed-cc0b-4270-8223-d483fe7d8ca1)
