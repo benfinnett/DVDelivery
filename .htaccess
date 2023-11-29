@@ -1,0 +1,16 @@
+# Don't require .php extension in browser address bar 
+# Enable Apache's mod_rewrite module
+## RewriteEngine On
+
+# Request the filename and check that it doesn't exist already
+# For example, if "/index" is passed then it doesn't exist but if "/index.php" or "/assets" are passed then it does
+## RewriteCond %{REQUEST_FILENAME} !-f
+## RewriteCond %{REQUEST_FILENAME} !-d
+
+# If it doesn't exist, add ".php" to the end and show that content
+# NC ignores the case of the filename [and L tells Apache to stop processing further if the current rule matches]
+## RewriteRule ^([^\.]+)$ $1.php [NC]
+
+# Redirect user to 404.php if they try and access a page that doesn't exist
+ErrorDocument 404 /404.php
+ 
